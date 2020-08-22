@@ -1,6 +1,8 @@
 /* 20.Valid Parentheses
 
-References: https://leetcode.com/problems/valid-parentheses/
+References:
+    https://leetcode.com/problems/valid-parentheses/
+    https://leetcode-cn.com/problems/valid-parentheses/
 
 */
 

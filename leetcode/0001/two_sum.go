@@ -1,6 +1,8 @@
 /* 1.Two Sum
 
-References: https://leetcode.com/problems/two-sum/
+References:
+    https://leetcode.com/problems/two-sum/
+    https://leetcode-cn.com/problems/two-sum/
 
 */
 
